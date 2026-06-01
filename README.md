@@ -1,11 +1,15 @@
 # Reveal a Random Image
-Image generator project from Skillcrush 102.
+Image generator project from updated Skillcrush 102 course in 2021.
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
 
 ## Instructions
-Clone this repo or download the zip file. Open index.html file in your browser. Click Show me an image! button to get a random image.
-
-## Contributions
-This website is based on a desing created by Skillcrush. Therefore I will not be accepting any pull requests.
+1. Clone this repo or download the zip file. 
+2. Open index.html file in your browser. 
+3. Click Show me an image! button to get a random image.
 
 ## Acknowledgements
 * Skillcrush
